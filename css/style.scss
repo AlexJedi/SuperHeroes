@@ -1,3 +1,6 @@
+$example-variable: black;
+@mixin example-mixin(a){};
+
 @font-face {
     font-family: 'Avengeance Mightiest Avenger';
     src: url('../fonts/AVENGEANCE MIGHTIEST AVENGER.otf');
